@@ -1,0 +1,1 @@
+chrome --app="https://play.spotify.com"
